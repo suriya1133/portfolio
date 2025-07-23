@@ -14,7 +14,7 @@ const Projects: React.FC<ProjectsProps> = ({ scale }) => {
       description: 'A real-time, client-side phishing detection system leveraging deep learning (BERT, CNN, LSTM) to block sophisticated spoofing attacks without relying solely on blacklists.',
       tech: ['React', 'BERT', 'CNN', 'LSTM', 'TensorFlow'],
       liveUrl: '#',
-      githubUrl: '#',
+      githubUrl: 'https://github.com/suriya1133/PhishCatcher.git',
       gradient: 'from-red-500 to-yellow-600'
     },
     {
