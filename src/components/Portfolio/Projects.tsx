@@ -22,7 +22,7 @@ const Projects: React.FC<ProjectsProps> = ({ scale }) => {
       description: 'An intelligent telemedicine system analyzing lung cancer datasets and conversations using ML and NLP to predict outcomes and automate follow-up care.',
       tech: ['Python', 'NLP', 'Scikit-learn', 'React', 'MongoDB'],
       liveUrl: '#',
-      githubUrl: 'https://github.com/suriya1133/Infosys_SpringBoard',
+      githubUrl: 'https://github.com/suriya1133/AI-Driven-Patient-HealthChecker.git',
       gradient: 'from-purple-500 to-pink-600'
     },
     {
