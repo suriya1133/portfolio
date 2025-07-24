@@ -30,7 +30,7 @@ const Projects: React.FC<ProjectsProps> = ({ scale }) => {
       description: 'A responsive static restaurant portfolio website showcasing menu, location, and testimonials to enhance online presence.',
       tech: ['HTML', 'CSS', 'JavaScript', 'Responsive Design'],
       liveUrl: '#',
-      githubUrl: '#',
+      githubUrl: 'https://github.com/suriya1133/portfolio.git',
       gradient: 'from-yellow-500 to-red-500'
     }
   ];
