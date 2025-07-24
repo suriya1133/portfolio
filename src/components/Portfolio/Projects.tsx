@@ -18,14 +18,6 @@ const Projects: React.FC<ProjectsProps> = ({ scale }) => {
       gradient: 'from-red-500 to-yellow-600'
     },
     {
-      title: 'Aptitude & Reasoning Practice Platform',
-      description: 'A full-stack platform to learn, practice, and track aptitude and reasoning skills with categorized topics, solutions, dashboards, and feedback.',
-      tech: ['React', 'Node.js', 'MongoDB', 'Express', 'Chart.js'],
-      liveUrl: '#',
-      githubUrl: '#',
-      gradient: 'from-indigo-500 to-blue-700'
-    },
-    {
       title: 'AI-Driven Patient Follow-Up System',
       description: 'An intelligent telemedicine system analyzing lung cancer datasets and conversations using ML and NLP to predict outcomes and automate follow-up care.',
       tech: ['Python', 'NLP', 'Scikit-learn', 'React', 'MongoDB'],
