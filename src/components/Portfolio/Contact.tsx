@@ -213,7 +213,7 @@ This message was sent from your portfolio contact form.
 
               <div className="flex flex-col items-center mt-6">
                 <a
-                  href="/Updated (1).pdf"
+                  href="/resume_1.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block"
